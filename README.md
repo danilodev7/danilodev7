@@ -1,6 +1,16 @@
 # 💻 Danilo Araújo — Desenvolvedor Full Stack
+
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/5338/5338322.png" alt="Full Stack Developer" width="30%">
+</p>
+
+Desenvolvedor Full Stack com **9 anos de experiência** criando soluções robustas, eficientes e voltadas para a experiência do usuário. Minha expertise abrange desde o desenvolvimento de aplicações completas até a integração de APIs, com foco em **ecommerce**, **sistemas financeiros** e **otimização de processos**. 
+
+Apaixonado por inovação, tecnologia e qualidade de entrega.
+
 # 👨‍💻 import DaniloAraújo from "github";
 
+## Sobre Mim
 ```javascript
 class AboutMe extends Developer {
   name = "Danilo Araújo";
@@ -11,14 +21,6 @@ class AboutMe extends Developer {
 }
 ```
 
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/5338/5338322.png" alt="Full Stack Developer" width="30%">
-</p>
-
-## Sobre Mim
-
-Desenvolvedor Full Stack com **9 anos de experiência** criando soluções robustas, eficientes e voltadas para a experiência do usuário. Minha expertise abrange desde o desenvolvimento de aplicações completas até a integração de APIs, com foco em **ecommerce**, **sistemas financeiros** e **otimização de processos**. Sou apaixonado por inovação, tecnologia e qualidade de entrega.
 
 ## 🛠️ Habilidades Técnicas
 
@@ -50,27 +52,6 @@ Desenvolvedor Full Stack com **9 anos de experiência** criando soluções robus
 </p>
 
 </div>
-
-## 🌍 Experiência Profissional
-
-### Desenvolvedor Full Stack | **Loja Santo Antonio**  
-*Mai/2023 – Jul/2024*  
-Desenvolvimento de aplicações back-end e front-end em **React.js**, **Node.js** e **TypeScript**, com foco em soluções para ecommerce e integração de APIs.
-
-### Desenvolvedor Full Stack | **Minify - Web & Design**  
-*Mar/2023 – Abr/2024*  
-Customização de plugins WordPress e desenvolvimento de APIs RESTful, com ênfase em performance e segurança.
-
-### Desenvolvedor Front-End | **Yooper Digital Marketing**  
-*Jan/2023 – Abr/2024*  
-Criação de componentes e features para plataformas de ecommerce como VTEX, Nuvemshop, Magento, e WooCommerce.
-
-## 🎓 Formação Acadêmica
-
-- **Graduação em Análise e Desenvolvimento de Sistemas**  
-  Impacta Tecnologia, São Paulo (2022 - 2023)  
-- **Curso Técnico em Web Design e Desenvolvimento**  
-  Escola SENAI de Informática, São Paulo (2009 - 2010)
 
 ## 🌐 Conecte-se Comigo
 
