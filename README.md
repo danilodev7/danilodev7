@@ -9,6 +9,7 @@ class AboutMe extends Developer {
   location = "Remoto";
   passion = ["Tecnologia", "Inovação", "Desenvolvimento de Produtos"];
 }
+```
 
 
 <p align="center">
