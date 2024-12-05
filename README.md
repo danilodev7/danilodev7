@@ -19,8 +19,15 @@ class AboutMe extends Developer {
   location = "Remoto";
   passion = ["Tecnologia", "Inovação", "Desenvolvimento de Produtos"];
 }
-```
 
+class Skills extends Developer {
+  languages = ["JavaScript", "TypeScript", "PHP", "Python"];
+  frameworks = ["React.js", "Node.js", "Vue.js", "Laravel", "Express.js"];
+  tools = ["Git", "Docker", "Linux", "Postman"];
+}
+```
+🛠️ Linguagens e Ferramentas
+<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/> </div>
 
 ## 🛠️ Habilidades Técnicas
 
