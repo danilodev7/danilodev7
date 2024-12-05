@@ -1,8 +1,7 @@
-
 # 💻 Danilo Araújo — Desenvolvedor Full Stack
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Full+Stack+Developer+%7C+Code+%7C+Tech" alt="Full Stack Developer" width="100%">
+  <img src="https://cdn-icons-png.flaticon.com/512/5338/5338322.png" alt="Full Stack Developer" width="100%">
 </p>
 
 ## Sobre Mim
@@ -11,22 +10,34 @@ Desenvolvedor Full Stack com **9 anos de experiência** criando soluções robus
 
 ## 🛠️ Habilidades Técnicas
 
-**Linguagens de Programação:**  
-- JavaScript (Vanilla, ES6+), TypeScript, PHP, Python
+<div align="center">
 
-**Frameworks e Bibliotecas:**  
-- React.js, Node.js, Angular.js, Express.js, Laravel, Django, Vue.js
+### Linguagens de Programação
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+</p>
 
-**Plataformas de Ecommerce:**  
-- VTEX (Legacy e IO), Nuvemshop, Magento, WooCommerce
+### Frameworks e Bibliotecas
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js"/>
+</p>
 
-**Sistemas de Gestão de Conteúdo (CMS):**  
-- WordPress, Joomla, Drupal, Adobe Commerce (Magento), Magnolia
+### Plataformas de Ecommerce
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="WooCommerce"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="40" alt="Magento"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress"/>
+</p>
 
-**Outras Competências:**  
-- Integração e desenvolvimento de APIs RESTful  
-- Manipulação e análise de dados  
-- Otimização para performance e SEO
+</div>
 
 ## 🌍 Experiência Profissional
 
