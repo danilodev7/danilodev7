@@ -1,66 +1,61 @@
 
-# 👋 Olá, eu sou o Danilo Araujo!
+# 💻 Danilo Araújo — Desenvolvedor Full Stack
 
-💻 **Desenvolvedor Full Stack** com mais de 9 anos de experiência em desenvolvimento de aplicações web, focado em soluções robustas para **e-commerce**, APIs RESTful e integrações com plataformas como VTEX, Magento e Nuvemshop.
+<p align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=Full+Stack+Developer+%7C+Code+%7C+Tech" alt="Full Stack Developer" width="100%">
+</p>
 
-🌍 Atualmente baseado em **São Paulo - SP**, estou sempre buscando oportunidades para colaborar com projetos inovadores que promovam experiências digitais incríveis.
+## Sobre Mim
 
----
+Desenvolvedor Full Stack com **9 anos de experiência** criando soluções robustas, eficientes e voltadas para a experiência do usuário. Minha expertise abrange desde o desenvolvimento de aplicações completas até a integração de APIs, com foco em **ecommerce**, **sistemas financeiros** e **otimização de processos**. Sou apaixonado por inovação, tecnologia e qualidade de entrega.
 
-## 🔧 **Habilidades Técnicas**
+## 🛠️ Habilidades Técnicas
 
-### Linguagens de Programação
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+**Linguagens de Programação:**  
+- JavaScript (Vanilla, ES6+), TypeScript, PHP, Python
 
-### Frameworks e Bibliotecas
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
+**Frameworks e Bibliotecas:**  
+- React.js, Node.js, Angular.js, Express.js, Laravel, Django, Vue.js
 
-### Plataformas e CMS
-![VTEX](https://img.shields.io/badge/-VTEX-4B187E?logo=vtex&logoColor=white&style=flat-square)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat-square)
-![Magento](https://img.shields.io/badge/-Magento-EE672F?logo=magento&logoColor=white&style=flat-square)
+**Plataformas de Ecommerce:**  
+- VTEX (Legacy e IO), Nuvemshop, Magento, WooCommerce
 
-### Outras Ferramentas
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+**Sistemas de Gestão de Conteúdo (CMS):**  
+- WordPress, Joomla, Drupal, Adobe Commerce (Magento), Magnolia
 
----
+**Outras Competências:**  
+- Integração e desenvolvimento de APIs RESTful  
+- Manipulação e análise de dados  
+- Otimização para performance e SEO
 
-## 🚀 **Projetos em Destaque**
+## 🌍 Experiência Profissional
 
-### [Portfólio Completo](https://br.pinterest.com/danilodevops/portfolio/)
-Aqui você encontrará uma seleção dos meus projetos mais relevantes, que incluem:
-- **Plataformas de E-commerce** otimizadas para alta performance.
-- **Aplicações Web** focadas na experiência do usuário e integrações com APIs.
-- **Customizações de Plugins** para WordPress e desenvolvimento em VTEX IO.
+### Desenvolvedor Full Stack | **Loja Santo Antonio**  
+*Mai/2023 – Jul/2024*  
+Desenvolvimento de aplicações back-end e front-end em **React.js**, **Node.js** e **TypeScript**, com foco em soluções para ecommerce e integração de APIs.
 
----
+### Desenvolvedor Full Stack | **Minify - Web & Design**  
+*Mar/2023 – Abr/2024*  
+Customização de plugins WordPress e desenvolvimento de APIs RESTful, com ênfase em performance e segurança.
 
-## 📫 **Entre em Contato**
+### Desenvolvedor Front-End | **Yooper Digital Marketing**  
+*Jan/2023 – Abr/2024*  
+Criação de componentes e features para plataformas de ecommerce como VTEX, Nuvemshop, Magento, e WooCommerce.
 
-Você pode me encontrar nas seguintes plataformas:
+## 🎓 Formação Acadêmica
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/daniloraujo/)
-[![E-mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:danilodev7@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/)
+- **Graduação em Análise e Desenvolvimento de Sistemas**  
+  Impacta Tecnologia, São Paulo (2022 - 2023)  
+- **Curso Técnico em Web Design e Desenvolvimento**  
+  Escola SENAI de Informática, São Paulo (2009 - 2010)
 
----
+## 🌐 Conecte-se Comigo
 
-## 💡 **Sobre Mim**
-- 📚 **Formação**: Análise e Desenvolvimento de Sistemas pela **Impacta Tecnologia**.
-- 🌱 **Sempre aprendendo**: Atualmente explorando desenvolvimento mobile com **Flutter** e DevOps.
-- 🏆 **Interesses**: Contribuições para projetos open source e aprendizado contínuo.
+- **LinkedIn:** [Danilo Araújo](https://www.linkedin.com/in/daniloraujo/)  
+- **Portfólio:** [Pinterest Portfolio](https://br.pinterest.com/danilodevops/portfolio/)  
+- **Email:** danilodev7@gmail.com
 
 ---
 
-⭐️ *Se você gostou deste perfil, não se esqueça de deixar uma estrela nos meus projetos!* ⭐️
+⭐ **"A tecnologia não é apenas o que eu faço, é quem eu sou."**  
+🚀 Sempre aberto a novos desafios e oportunidades que promovam inovação e aprendizado.
