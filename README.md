@@ -1,7 +1,7 @@
 # 💻 Danilo Araújo — Desenvolvedor Full Stack
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/5338/5338322.png" alt="Full Stack Developer" width="100%">
+  <img src="https://cdn-icons-png.flaticon.com/512/5338/5338322.png" alt="Full Stack Developer" width="30%">
 </p>
 
 ## Sobre Mim
