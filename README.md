@@ -1,4 +1,4 @@
-[# 💻 Desenvolvedor Full Stack
+# 💻 Desenvolvedor Full Stack
 
 Desenvolvedor Full Stack com **9 anos de experiência** criando soluções robustas, eficientes e voltadas para a experiência do usuário. Minha expertise abrange desde o desenvolvimento de aplicações completas até a integração de APIs, com foco em **ecommerce**, **sistemas financeiros** e **otimização de processos**. 
 
@@ -98,4 +98,3 @@ class Skills extends Developer {
 
 ⭐ **"A tecnologia não é apenas o que eu faço, é quem eu sou."**  
 🚀 Sempre aberto a novos desafios e oportunidades que promovam inovação e aprendizado.
-](https://banner2.cleanpng.com/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-1713945971245.webp)
