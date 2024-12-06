@@ -1,4 +1,5 @@
 # 💻 Desenvolvedor Full Stack
+  <img src="https://github.com/danilodev7/danilodev7/edit/main/README.md" height="100" alt="JavaScript"/>
 
 Desenvolvedor Full Stack com **9 anos de experiência** criando soluções robustas, eficientes e voltadas para a experiência do usuário. Minha expertise abrange desde o desenvolvimento de aplicações completas até a integração de APIs, com foco em **ecommerce**, **sistemas financeiros** e **otimização de processos**. 
 
