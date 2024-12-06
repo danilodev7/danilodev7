@@ -76,8 +76,11 @@ class Skills extends Developer {
 ### Plataformas de Ecommerce
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="WooCommerce"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="40" alt="Magento"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="Magento"/>
+
+  <img src="https://companieslogo.com/img/orig/VTEX-64045aa2.png?t=1720244494" height="40" alt="Vtex"/>
 </p>
 
 </div>
