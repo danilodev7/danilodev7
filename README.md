@@ -1,12 +1,15 @@
 # 💻 Danilo Araújo — Desenvolvedor Full Stack
 
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/5338/5338322.png" alt="Full Stack Developer" width="30%">
-</p>
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        Desenvolvedor Full Stack com **9 anos de experiência** criando soluções robustas, eficientes e voltadas para a experiência do usuário. Minha expertise abrange desde o desenvolvimento de aplicações completas até a integração de APIs, com foco em **ecommerce**, **sistemas financeiros** e **otimização de processos**. 
 
-Desenvolvedor Full Stack com **9 anos de experiência** criando soluções robustas, eficientes e voltadas para a experiência do usuário. Minha expertise abrange desde o desenvolvimento de aplicações completas até a integração de APIs, com foco em **ecommerce**, **sistemas financeiros** e **otimização de processos**. 
-
-Apaixonado por inovação, tecnologia e qualidade de entrega.
+        Apaixonado por inovação, tecnologia e qualidade de entrega.
+    </div>
+    <div style="flex: 1; text-align: right;">
+        <img src="https://cdn-icons-png.flaticon.com/512/5338/5338322.png" alt="Full Stack Developer" width="30%">
+    </div>
+</div>
 
 # 👨‍💻 import DaniloAraújo from "github";
 
@@ -26,8 +29,7 @@ class Skills extends Developer {
   tools = ["Git", "Docker", "Linux", "Postman"];
 }
 ```
-🛠️ Linguagens e Ferramentas
-<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/> </div>
+
 
 ## 🛠️ Habilidades Técnicas
 
@@ -69,4 +71,5 @@ class Skills extends Developer {
 ---
 
 ⭐ **"A tecnologia não é apenas o que eu faço, é quem eu sou."**  
+
 🚀 Sempre aberto a novos desafios e oportunidades que promovam inovação e aprendizado.
