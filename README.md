@@ -1,15 +1,16 @@
 # 💻 Danilo Araújo — Desenvolvedor Full Stack
 
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
+<table>
+  <tr>
+    <td style="width: 70%;">
         Desenvolvedor Full Stack com **9 anos de experiência** criando soluções robustas, eficientes e voltadas para a experiência do usuário. Minha expertise abrange desde o desenvolvimento de aplicações completas até a integração de APIs, com foco em **ecommerce**, **sistemas financeiros** e **otimização de processos**. 
-
         Apaixonado por inovação, tecnologia e qualidade de entrega.
-    </div>
-    <div style="flex: 1; text-align: right;">
+    </td>
+    <td style="width: 30%; text-align: right;">
         <img src="https://cdn-icons-png.flaticon.com/512/5338/5338322.png" alt="Full Stack Developer" width="30%">
-    </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 # 👨‍💻 import DaniloAraújo from "github";
 
@@ -71,5 +72,4 @@ class Skills extends Developer {
 ---
 
 ⭐ **"A tecnologia não é apenas o que eu faço, é quem eu sou."**  
-
 🚀 Sempre aberto a novos desafios e oportunidades que promovam inovação e aprendizado.
