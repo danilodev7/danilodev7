@@ -1,5 +1,3 @@
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQF7Zoz37LXmww/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733509512121?e=1738800000&v=beta&t=8YAH4gVeqYzOuGtrMvTHA0k1jZADo9_Nhuuxhb_dgAs" height="auto" alt="JavaScript"/>
-  
 # 💻 Desenvolvedor Full Stack
 
 Desenvolvedor Full Stack com **9 anos de experiência** criando soluções robustas, eficientes e voltadas para a experiência do usuário. Minha expertise abrange desde o desenvolvimento de aplicações completas até a integração de APIs, com foco em **ecommerce**, **sistemas financeiros** e **otimização de processos**. 
