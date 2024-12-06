@@ -1,4 +1,4 @@
-[# 💻 Desenvolvedor Full Stack
+# 💻 Desenvolvedor Full Stack
 
 Desenvolvedor Full Stack com **9 anos de experiência** criando soluções robustas, eficientes e voltadas para a experiência do usuário. Minha expertise abrange desde o desenvolvimento de aplicações completas até a integração de APIs, com foco em **ecommerce**, **sistemas financeiros** e **otimização de processos**. 
 
@@ -17,7 +17,7 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  languages = ["JavaScript", "TypeScript", "PHP", "Python"];
+  languages = ["JavaScript", "TypeScript", "PHP", "Python", "Ruby", "C#"];
   frameworks = {
     frontEnd: ["React.js", "Vue.js", "Ember.js", "Next.js"],
     backEnd: ["Node.js", "Nest.js", "Express.js", "Laravel", "Ruby on Rails"]
@@ -43,6 +43,8 @@ class Skills extends Developer {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
 
    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ruby/ruby-original.svg" height="40" alt="Ruby"/>
+
+   <img src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png" height="40" alt="C#"/>
 </p>
 
 ### Frameworks e Bibliotecas
@@ -96,4 +98,3 @@ class Skills extends Developer {
 
 ⭐ **"A tecnologia não é apenas o que eu faço, é quem eu sou."**  
 🚀 Sempre aberto a novos desafios e oportunidades que promovam inovação e aprendizado.
-](https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png)
