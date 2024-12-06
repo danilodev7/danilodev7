@@ -1,4 +1,4 @@
-# 💻 Desenvolvedor Full Stack
+[# 💻 Desenvolvedor Full Stack
 
 Desenvolvedor Full Stack com **9 anos de experiência** criando soluções robustas, eficientes e voltadas para a experiência do usuário. Minha expertise abrange desde o desenvolvimento de aplicações completas até a integração de APIs, com foco em **ecommerce**, **sistemas financeiros** e **otimização de processos**. 
 
@@ -96,3 +96,4 @@ class Skills extends Developer {
 
 ⭐ **"A tecnologia não é apenas o que eu faço, é quem eu sou."**  
 🚀 Sempre aberto a novos desafios e oportunidades que promovam inovação e aprendizado.
+](https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png)
