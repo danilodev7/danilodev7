@@ -6,7 +6,6 @@ Apaixonado por inovação, tecnologia e qualidade de entrega.
 
 # 👨‍💻 import DaniloAraújo from "github";
 
-## Sobre Mim
 ```javascript
 class AboutMe extends Developer {
   name = "Danilo Araujo";
