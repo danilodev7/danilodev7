@@ -4,7 +4,7 @@ Desenvolvedor Full Stack com **9 anos de experiência** criando soluções robus
 
 Apaixonado por inovação, tecnologia e qualidade de entrega.
 
-# 👨‍💻 import DaniloAraújo from "github";
+# 👨‍💻 import DaniloAraujo from "github";
 
 ```javascript
 class AboutMe extends Developer {
