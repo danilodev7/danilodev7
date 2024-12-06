@@ -1,10 +1,10 @@
-# 💻 Danilo Araújo — Desenvolvedor Full Stack
+# 💻 Danilo Araujo — Desenvolvedor Full Stack
 
 Desenvolvedor Full Stack com **9 anos de experiência** criando soluções robustas, eficientes e voltadas para a experiência do usuário. Minha expertise abrange desde o desenvolvimento de aplicações completas até a integração de APIs, com foco em **ecommerce**, **sistemas financeiros** e **otimização de processos**. 
 
 Apaixonado por inovação, tecnologia e qualidade de entrega.
 
-# 👨‍💻 import DaniloAraújo from "github";
+# 👨‍💻 import DaniloAraujo from "github";
 
 ## Sobre Mim
 ```javascript
