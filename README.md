@@ -1,9 +1,5 @@
 # 💻 Desenvolvedor Full Stack
 
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/5338/5338322.png" alt="Full Stack Developer" width="30%">
-</p>
-
 Desenvolvedor Full Stack com **9 anos de experiência** criando soluções robustas, eficientes e voltadas para a experiência do usuário. Minha expertise abrange desde o desenvolvimento de aplicações completas até a integração de APIs, com foco em **ecommerce**, **sistemas financeiros** e **otimização de processos**. 
 
 Apaixonado por inovação, tecnologia e qualidade de entrega.
